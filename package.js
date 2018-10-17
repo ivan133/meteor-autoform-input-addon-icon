@@ -1,5 +1,5 @@
 Package.describe({
-    name: 'smaltcreation:autoform-input-addon-icon',
+    name: 'ivan133:autoform-input-addon-icon',
     version: '1.0.0',
     summary: 'Input with bootstrap addon and custom icon for autoform'
 });
