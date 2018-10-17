@@ -1,7 +1,7 @@
 # meteor-autoform-input-addon-icon
 Input with bootstrap addon and custom icon for autoform.
 ``` console
-meteor add smaltcreation:autoform-input-addon-icon
+meteor add ivan133:autoform-input-addon-icon
 ```
 
 ## Usage
